@@ -55,7 +55,7 @@ export default function Portfolio() {
                         <div className="relative shrink-0">
                             <div className="w-24 h-24 md:w-32 md:h-32 relative rounded-2xl bg-gradient-to-br from-zinc-100 to-zinc-200 dark:from-zinc-800 dark:to-zinc-900 border border-border/50 shadow-inner flex items-center justify-center overflow-hidden">
                                 <Image
-                                    src="/pp.png"
+                                    src="/profile.png"
                                     alt="Jeremy Bourret"
                                     fill
                                     className="object-cover"

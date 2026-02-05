@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio repository. This project is a showcase of my work, built with a focus on **high performance**, **modern design**, and **strict adherence to Vercel's React Best Practices**.
 
-![Portfolio Preview](public/pp.png)
+![Portfolio Preview](public/profile.png)
 
 ## 🛠 Tech Stack
 
